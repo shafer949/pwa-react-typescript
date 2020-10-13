@@ -1,3 +1,7 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) typescript template.
+## Technologies
+* This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) Typescript template.
+* Integrated with [Netlify](https://www.netlify.com/) CI/CD - any changes to the main branch get automatically deployed [here](https://pwa-quiz-app-react-typescript.netlify.app/).
 
-Site is deployed at: https://pwa-quiz-app-react-typescript.netlify.app/
+## General Info
+This project was created during the 2020 HacktoberFest as a means to learn more about using Typescript with React and how to make Progressive Web Apps(PWAs). 
+
