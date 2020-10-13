@@ -7,5 +7,7 @@ This project was created during the 2020 HacktoberFest as a means to learn more 
 
 ## Credits
 * Rainbow background image: Sharon McCutcheon from Pexels
-* Tutorial [video](https://www.youtube.com/watch?v=F2JCjVSZlG0) 
-* Tutorial [github](https://github.com/weibenfalk/react-quiz)
+* React Typescript Quiz Tutorial [video](https://www.youtube.com/watch?v=F2JCjVSZlG0) 
+* React Typescript Quiz Tutorial [github](https://github.com/weibenfalk/react-quiz)
+* PWA Tutorial [article](https://blog.logrocket.com/from-create-react-app-to-pwa/)
+
