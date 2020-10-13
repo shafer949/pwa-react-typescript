@@ -49,7 +49,7 @@ export const Wrapper = styled.div`
     filter: drop-shadow(2px 2px #1f0161);
     font-size: 70px;
     text-align: center;
-    margin: 100px 20px 20px;
+    margin: 20px;
   }
 
   .start, .next {
