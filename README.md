@@ -5,3 +5,7 @@
 ## General Info
 This project was created during the 2020 HacktoberFest as a means to learn more about using Typescript with React and how to make Progressive Web Apps(PWAs). 
 
+## Credits
+* Rainbow background image: Photo by Sharon McCutcheon from Pexels
+* Tutorial [video](https://www.youtube.com/watch?v=F2JCjVSZlG0) 
+* Tutorial [github](https://github.com/weibenfalk/react-quiz)
