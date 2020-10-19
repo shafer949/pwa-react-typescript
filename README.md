@@ -11,3 +11,5 @@ This project was created during the 2020 HacktoberFest as a means to learn more 
 * React Typescript Quiz Tutorial [github](https://github.com/weibenfalk/react-quiz)
 * PWA Tutorial [article](https://blog.logrocket.com/from-create-react-app-to-pwa/)
 
+## License
+MIT
