@@ -27,11 +27,11 @@ export const Wrapper = styled.div`
   align-items: center;
 
   > p {
-    color: #f21414;
+    color: #181818;
   }
 
   .score {
-    color: #f21414;
+    color: #181818;
     font-size: 2rem;
     margin: 0;
   }
