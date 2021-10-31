@@ -12,4 +12,4 @@ This project was created during the 2020 HacktoberFest as a means to learn more 
 * PWA Tutorial [article](https://blog.logrocket.com/from-create-react-app-to-pwa/)
 
 ## License
-MIT
+https://creativecommons.org/licenses/by-sa/4.0/
